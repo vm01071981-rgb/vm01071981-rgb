@@ -1,87 +1,18 @@
-# 👋 Hi, I'm Vishakha Mahajan
+# 💫 About Me:
+## 💫 About Me<br><br>I am a passionate and detail-oriented developer with a strong interest in building scalable web applications and data-driven solutions. I enjoy transforming ideas into real-world products by combining clean, user-friendly interfaces with efficient backend systems. My approach focuses on writing optimized, maintainable code while ensuring a smooth and engaging user experience.<br><br>With a solid foundation in web development and data analysis, I have worked on projects that involve full-stack development, database management, and analytics. I am particularly interested in areas like Artificial Intelligence, data analytics, and system design, where I can solve real-world problems and create meaningful impact through technology.<br><br>I am continuously learning and improving my skills in Data Structures & Algorithms, modern frameworks, and backend architecture to become a well-rounded developer. I strongly believe in “learning by building,” which drives me to explore new technologies and implement them in practical projects.<br><br>I am highly motivated, adaptable, and always eager to take on new challenges that help me grow both technically and professionally. My goal is to contribute to innovative projects, collaborate with talented teams, and build solutions that are efficient, scalable, and impactful.<br>
 
-🚀 **Full-Stack Developer | Data Enthusiast | Problem Solver**
 
-I’m passionate about building scalable web applications and extracting meaningful insights from data. I enjoy combining clean UI with powerful backend systems to create impactful digital solutions.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=vm01071981-rgb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=vm01071981-rgb&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vm01071981-rgb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-## 💫 About Me
-
-* 💻 Skilled in **Web Development & Data Analysis**
-* 📊 Interested in **AI, Analytics & Scalable Systems**
-* 🌱 Currently learning **DSA & Advanced Full-Stack Development**
-* 🎯 Goal: To build **high-performance, user-centric applications**
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-
-`JavaScript` `Python` `SQL`
-
-### 🎨 Frontend
-
-`React.js` `HTML` `CSS` `Tailwind CSS`
-
-### ⚙️ Backend
-
-`Node.js` `Express.js`
-
-### 🗄️ Database
-
-`MongoDB` `MySQL`
-
-### 🔧 Tools
-
-`Git` `GitHub` `VS Code` `Vercel` `Netlify`
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vm01071981-rgb&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=vm01071981-rgb&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Featured Projects
-
-### 🔹 AI-Powered E-Commerce Analytics Dashboard
-
-* Real-time business insights using AI
-* Data visualization & analytics
-* Built with React + Node + MongoDB
-
-### 🔹 SQL Data Analysis Project
-
-* Complex queries using Joins, CTEs, Window Functions
-* Business-focused insights
-* Real-world dataset implementation
-
-### 🔹 Full-Stack Web Applications
-
-* Responsive UI + REST APIs
-* Authentication & database integration
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-* 💼 LinkedIn: Add your link
-* 📧 Email: Add your email
-* 🌍 Portfolio: Add your portfolio
-
----
-
-## ⚡ Fun Fact
-
-I believe in **“learning by building”** and constantly pushing my limits to grow 🚀
-
----
-
-⭐ *If you like my work, feel free to explore my repositories and give them a star!*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
